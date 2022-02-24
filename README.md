@@ -8,7 +8,7 @@ The transcriptions were done with eScriptorium, a transcription platform
 developed as part of the Scripta and RESILIENCE projects
 (https://gitlab.com/scripta/escriptorium/).
 
-After exporting the transcriptions as PAGE XML files, those files were
+After exporting the transcriptions as PAGEs XML files, those files were
 processed to remove empty lines:
 
     perl -i -ne "tr|\r||d; next if /^\s*$/;print" *.xml
