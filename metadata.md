@@ -24,6 +24,10 @@
                                 <details>
                <summary>Legende</summary>
                <dl class="grid">
+                  <dt>TextLine</dt>
+                  <dd>TextLine</dd>
+                  <dt>Page</dt>
+                  <dd>Page</dd>
                   <dt>TxtRegion</dt>
                   <dd>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
@@ -90,6 +94,12 @@
          </td>
          <td>
             <div class="grid-container">
+               <button onclick="document.getElementById('table_id').classList.toggle('hide15')">
+                  <i>TextLine</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide16')">
+                  <i>Page</i>
+               </button>
                <button onclick="document.getElementById('table_id').classList.toggle('hide1')">
                   <i>TxtRegion</i>
                </button>
@@ -153,11 +163,14 @@
             <th>NoiseRegion</th>
             <th>UnkownRegion</th>
             <th>CustomRegion</th>
+            <th>TextLine</th>
+            <th>Page</th>
          </tr>
       </thead>
       <tbody>
          <tr>
             <td>5451</td>
+            <td>143</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
