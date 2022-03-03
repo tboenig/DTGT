@@ -10,11 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-    - name: install anaylse xsl-styles
-      run: pwd && ls -l && git clone https://github.com/tboenig/example-gt-repo.git && ls -l && mv example-gt-repo/scripts scripts/ && ls -l && rm -r example-gt-repo; 
-    
+       
     - name: Git checkout
       uses: actions/checkout@v2
+      
+    - name: install anaylse xsl-styles
+      run: pwd && ls -l && git clone https://github.com/tboenig/example-gt-repo.git && ls -l && mv example-gt-repo/scripts scripts/ && ls -l && rm -r example-gt-repo; 
      
     # Instalations
       
