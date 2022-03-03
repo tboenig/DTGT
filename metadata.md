@@ -3,17 +3,17 @@
    <h2>Metadata</h2>
    <dl class="grid">
       <dt>Name:</dt>
-      <dd>gt-repo-example</dd>
+      <dd>DigiTheo Ground Truth</dd>
       <dt>Beschreibung:</dt>
-      <dd>Dieses Repositorium dient als Vorlage für vergleichbare Repositorien, die Ground Truth-Daten öffentlich zur Verfügung stellen möchten. Nach Prüfung und den entsprechenden Lizenzen kann dieses Repo in das OCR-D-GT-Repo eingebunden werden.</dd>
+      <dd>This repository contains transcriptions for some journals which were digitized by the University Library of Tübingen in the DigiTheo project (http://idb.ub.uni-tuebingen.de/digitue/theo/). The transcriptions were done with eScriptorium, a transcription platform developed as part of the Scripta and RESILIENCE projects (https://gitlab.com/scripta/escriptorium/).</dd>
       <dt>Sprache:</dt>
       <dd>deu</dd>
       <dt>Format:</dt>
       <dd>PAGE</dd>
       <dt>Zeitraum:</dt>
-      <dd>1600-1900</dd>
+      <dd>1860-1872</dd>
       <dt>GT Type:</dt>
-      <dd>structure</dd>
+      <dd>line</dd>
    </dl>
 </div>
 <div class="metadata">
@@ -21,7 +21,7 @@
    <table class="noStyle">
       <tr>
          <td>💡 Sie können einzelne Spalten der Tabelle ein- und ausblenden. Klicken Sie auf<br/>den passenden Button.
-                            <details>
+                                <details>
                <summary>Legende</summary>
                <dl class="grid">
                   <dt>TxtRegion</dt>
@@ -160,10 +160,10 @@
             <td>404</td>
             <td>0</td>
             <td>0</td>
-            <td>2</td>
             <td>0</td>
             <td>0</td>
-            <td>22</td>
+            <td>0</td>
+            <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
