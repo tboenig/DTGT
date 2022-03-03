@@ -1,7 +1,6 @@
 {
     "name": "DigiTheo Ground Truth",
-    "description": "This repository contains transcriptions for some journals which were digitized by the University Library of Tübingen in the DigiTheo project (http://idb.ub.uni-tuebingen.de/digitue/theo/).
-                    The transcriptions were done with eScriptorium, a transcription platform developed as part of the Scripta and RESILIENCE projects (https://gitlab.com/scripta/escriptorium/).",
+    "description": "This repository contains transcriptions for some journals which were digitized by the University Library of Tübingen in the DigiTheo project (http://idb.ub.uni-tuebingen.de/digitue/theo/). The transcriptions were done with eScriptorium, a transcription platform developed as part of the Scripta and RESILIENCE projects (https://gitlab.com/scripta/escriptorium/).",
     "language": "deu",
     "time": [
       {
