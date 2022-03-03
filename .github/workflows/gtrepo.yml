@@ -22,7 +22,7 @@ jobs:
       run: wget https://sourceforge.net/projects/saxon/files/Saxon-HE/10/Java/SaxonHE10-5J.zip/download && unzip download
     
     - name: install anaylse xsl-styles
-      run: git clone https://github.com/tboenig/example-gt-repo.git && ls -l && mv example-gt-repo/scripts scripts/ && ls -l; 
+      run: ls -l && cd DTGT && ls -l && git clone https://github.com/tboenig/example-gt-repo.git && ls -l && mv example-gt-repo/scripts scripts/ && ls -l; 
                   
     #- name: testocrd
     #  run: ocrd --version
