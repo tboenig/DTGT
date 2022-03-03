@@ -151,7 +151,6 @@
          <tr>
             <th>TextLine</th>
             <th>Page</th>
-            <th>document</th>
             <th>TxtRegion</th>
             <th>ImgRegion</th>
             <th>LineDrawRegion</th>
