@@ -163,7 +163,6 @@
             <th>MusicRegion</th>
             <th>AdRegion</th>
             <th>NoiseRegion</th>
-            <th>UnkownRegion</th>
          </tr>
       </thead>
       <tbody>
