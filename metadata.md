@@ -172,19 +172,6 @@
             <td>5451</td>
             <td>143</td>
             <td>404</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
          </tr>
       </tbody>
    </table>
