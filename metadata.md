@@ -47,45 +47,6 @@
                <button onclick="document.getElementById('table_id').classList.toggle('hide3')">
                   <i>TxtRegion</i>
                </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide4')">
-                  <i>ImgRegion</i>
-               </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide5')">
-                  <i>LineDrawRegion</i>
-               </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide6')">
-                  <i>GraphRegion</i>
-               </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide7')">
-                  <i>TabRegion</i>
-               </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide8')">
-                  <i>ChartRegion</i>
-               </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide9')">
-                  <i>SepRegion</i>
-               </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide10')">
-                  <i>MathRegion</i>
-               </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide11')">
-                  <i>ChemRegion</i>
-               </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide12')">
-                  <i>MusicRegion</i>
-               </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide13')">
-                  <i>AdRegion</i>
-               </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide14')">
-                  <i>NoiseRegion</i>
-               </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide15')">
-                  <i>UnkownRegion</i>
-               </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide16')">
-                  <i>CustomRegion</i>
-               </button>
             </div>
          </td>
       </tr>
