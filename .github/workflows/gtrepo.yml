@@ -15,6 +15,7 @@ jobs:
     #- run: name=REPO_OWNER::${{ github.event.repository.owner }}
     
     - run: printenv;
+    - run: $GITHUB_ACTOR
        
     - name: Git checkout
       uses: actions/checkout@v2
