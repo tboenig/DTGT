@@ -15,7 +15,7 @@ jobs:
     #- run: name=REPO_OWNER::${{ github.event.repository.owner }}
     
     # - run: printenv;
-    - run: echo $GITHUB_ACTOR && java -ver
+    - run: echo $GITHUB_ACTOR && java -version
       shell: bash
     
        
