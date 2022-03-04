@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-    - run: name=REPO_NAME::${{ github.repository}}
+    - run: ${{ github.repository}}
     
     - run: name=REPO_OWNER::${{ github.event.repository.owner }}
     
@@ -47,7 +47,7 @@ jobs:
       
        
     - name: transform METADATA and make GT-Overview
-      run: sudo java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl output=METADATA repoName=DTGT -s:scripts/gt-overview_metadata.xsl -o:ghout/metadata.md
+      run: sudo java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl output=METADATA repoName=${{ github.repository.name}} -s:scripts/gt-overview_metadata.xsl -o:ghout/metadata.md
 
     - name: make Compressed table view
       run: sudo java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl output=TABLE -s:scripts/gt-overview_metadata.xsl -o:ghout/table.md
