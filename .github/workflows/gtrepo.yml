@@ -15,8 +15,8 @@ jobs:
     #- run: name=REPO_OWNER::${{ github.event.repository.owner }}
     
     # - run: printenv;
-    - run: echo $GITHUB_ACTOR && java -version
-      shell: bash
+    # - run: echo $GITHUB_ACTOR && java -version
+    #  shell: bash
     
        
     - name: Git checkout
@@ -51,6 +51,7 @@ jobs:
        
     - name: transform METADATA and make GT-Overview
       run: sudo java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl output=METADATA repoName=${{ github.repository.name}} -s:scripts/gt-overview_metadata.xsl -o:ghout/metadata.md
+      shell: bash
       
 
     - name: make Compressed table view
