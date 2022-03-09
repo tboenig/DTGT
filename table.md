@@ -201,7 +201,7 @@
             <tr>
                <td colspan="15" style="text-align:left !important;">
                   <details>
-                     <summary>Overview </summary>
+                     <summary>Overview</summary>
                      <table>
                         <thead>
                            <tr>
