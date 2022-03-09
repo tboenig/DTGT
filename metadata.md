@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="table_hide.css"/>
-<p>Hallotboenig/DTGT</p>
 <div class="metadata">
    <h2>Metadata</h2>
    <dl class="grid">
