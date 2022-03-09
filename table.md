@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="table_hide.css"/>
-<p>Hallotboenig/DTGT</p>
 <div>
    <h2>Details</h2>
    <ul>
