@@ -180,8 +180,8 @@
          </thead>
          <tbody>
             <tr>
-               <th/>
-               <td>404</td>
+               <th>Stimmen_aus_Maria-Laach/1871</th>
+               <td>73</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -195,8 +195,8 @@
                <td>0</td>
                <td>0</td>
                <td>0</td>
-               <td>5451</td>
-               <td>143</td>
+               <td>945</td>
+               <td>25</td>
             </tr>
             <tr>
                <td colspan="15" style="text-align:left !important;">
@@ -749,6 +749,55 @@
                            <td>34</td>
                            <td>1</td>
                         </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>Stimmen_aus_Maria-Laach/1872</th>
+               <td>244</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>3340</td>
+               <td>88</td>
+            </tr>
+            <tr>
+               <td colspan="15" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                           </tr>
+                        </thead>
                         <tr>
                            <td>
                               <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Stimmen_aus_Maria-Laach/1872/page/8_86416_default.xml">8_86416_default.xml</a>
@@ -2597,6 +2646,55 @@
                            <td>40</td>
                            <td>1</td>
                         </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>Allgemeine_kirchliche_Zeitung/1860</th>
+               <td>87</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>1166</td>
+               <td>30</td>
+            </tr>
+            <tr>
+               <td colspan="15" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                           </tr>
+                        </thead>
                         <tr>
                            <td>
                               <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/9_44a88_default.xml">9_44a88_default.xml</a>
