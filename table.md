@@ -181,6 +181,8 @@
          <tbody>
             <tr>
                <th>Stimmen_aus_Maria-Laach/1871</th>
+               <td>945</td>
+               <td>25</td>
                <td>73</td>
                <td>0</td>
                <td>0</td>
@@ -195,8 +197,6 @@
                <td>0</td>
                <td>0</td>
                <td>0</td>
-               <td>945</td>
-               <td>25</td>
             </tr>
             <tr>
                <td colspan="15" style="text-align:left !important;">
@@ -755,6 +755,8 @@
             </tr>
             <tr>
                <th>Stimmen_aus_Maria-Laach/1872</th>
+               <td>3340</td>
+               <td>88</td>
                <td>244</td>
                <td>0</td>
                <td>0</td>
@@ -769,8 +771,6 @@
                <td>0</td>
                <td>0</td>
                <td>0</td>
-               <td>3340</td>
-               <td>88</td>
             </tr>
             <tr>
                <td colspan="15" style="text-align:left !important;">
@@ -2652,6 +2652,8 @@
             </tr>
             <tr>
                <th>Allgemeine_kirchliche_Zeitung/1860</th>
+               <td>1166</td>
+               <td>30</td>
                <td>87</td>
                <td>0</td>
                <td>0</td>
@@ -2666,8 +2668,6 @@
                <td>0</td>
                <td>0</td>
                <td>0</td>
-               <td>1166</td>
-               <td>30</td>
             </tr>
             <tr>
                <td colspan="15" style="text-align:left !important;">
