@@ -159,6 +159,8 @@
       <table id="table_id" class="display">
          <thead>
             <tr>
+               <th>TextLine</th>
+               <th>Page</th>
                <th>document</th>
                <th>TxtRegion</th>
                <th>ImgRegion</th>
@@ -173,9 +175,6 @@
                <th>AdRegion</th>
                <th>NoiseRegion</th>
                <th>UnkownRegion</th>
-               <th>CustomRegion</th>
-               <th>TextLine</th>
-               <th>Page</th>
             </tr>
          </thead>
          <tbody>
@@ -205,6 +204,8 @@
                      <table>
                         <thead>
                            <tr>
+                              <th>TextLine</th>
+                              <th>Page</th>
                               <th>document</th>
                               <th>TxtRegion</th>
                               <th>ImgRegion</th>
@@ -219,9 +220,6 @@
                               <th>AdRegion</th>
                               <th>NoiseRegion</th>
                               <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
                            </tr>
                         </thead>
                         <tr>
@@ -779,6 +777,8 @@
                      <table>
                         <thead>
                            <tr>
+                              <th>TextLine</th>
+                              <th>Page</th>
                               <th>document</th>
                               <th>TxtRegion</th>
                               <th>ImgRegion</th>
@@ -793,9 +793,6 @@
                               <th>AdRegion</th>
                               <th>NoiseRegion</th>
                               <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
                            </tr>
                         </thead>
                         <tr>
@@ -2676,6 +2673,8 @@
                      <table>
                         <thead>
                            <tr>
+                              <th>TextLine</th>
+                              <th>Page</th>
                               <th>document</th>
                               <th>TxtRegion</th>
                               <th>ImgRegion</th>
@@ -2690,9 +2689,6 @@
                               <th>AdRegion</th>
                               <th>NoiseRegion</th>
                               <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
                            </tr>
                         </thead>
                         <tr>
