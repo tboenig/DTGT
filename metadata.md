@@ -4,13 +4,13 @@
    <dl class="grid">
       <dt>Name:</dt>
       <dd>DigiTheo Ground Truth</dd>
-      <dt>Beschreibung:</dt>
+      <dt>Description:</dt>
       <dd>This repository contains transcriptions for some journals which were digitized by the University Library of Tübingen in the DigiTheo project (http://idb.ub.uni-tuebingen.de/digitue/theo/). The transcriptions were done with eScriptorium, a transcription platform developed as part of the Scripta and RESILIENCE projects (https://gitlab.com/scripta/escriptorium/).</dd>
-      <dt>Sprache:</dt>
+      <dt>Language:</dt>
       <dd>deu</dd>
       <dt>Format:</dt>
       <dd>PAGE</dd>
-      <dt>Zeitraum:</dt>
+      <dt>Time:</dt>
       <dd>1860-1872</dd>
       <dt>GT Type:</dt>
       <dd>line</dd>
@@ -20,9 +20,9 @@
    <h2>Total view</h2>
    <table class="noStyle">
       <tr>
-         <td>💡 Sie können einzelne Spalten der Tabelle ein- und ausblenden. Klicken Sie auf<br/>den passenden Button.
+         <td>💡 You can show and hide individual columns of the table.<br/>Click the corresponding button.
                                 <details>
-               <summary>Legende</summary>
+               <summary>Legend</summary>
                <dl class="grid">
                   <dt>TextLine</dt>
                   <dd>TextLine</dd>
