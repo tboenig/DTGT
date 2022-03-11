@@ -149,7 +149,7 @@
                   <button onclick="document.getElementById('table_id').classList.toggle('hide16')">
                      <i>UnkownRegion</i>
                   </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide17')">
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide16')">
                      <i>CustomRegion</i>
                   </button>
                </div>
