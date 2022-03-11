@@ -104,54 +104,22 @@
             </td>
             <td>
                <div class="grid-container">
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide2')">
-                     <i>TextLine</i>
-                  </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide3')">
-                     <i>Page</i>
-                  </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide4')">
-                     <i>TxtRegion</i>
-                  </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide5')">
-                     <i>ImgRegion</i>
-                  </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide6')">
-                     <i>LineDrawRegion</i>
-                  </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide7')">
-                     <i>GraphRegion</i>
-                  </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide8')">
-                     <i>TabRegion</i>
-                  </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide9')">
-                     <i>ChartRegion</i>
-                  </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide10')">
-                     <i>SepRegion</i>
-                  </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide11')">
-                     <i>MathRegion</i>
-                  </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide12')">
-                     <i>ChemRegion</i>
-                  </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide13')">
-                     <i>MusicRegion</i>
-                  </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide14')">
-                     <i>AdRegion</i>
-                  </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide15')">
-                     <i>NoiseRegion</i>
-                  </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide16')">
-                     <i>UnkownRegion</i>
-                  </button>
-                  <button onclick="document.getElementById('table_id').classList.toggle('hide16')">
-                     <i>CustomRegion</i>
-                  </button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide2')">TextLine</button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide3')">Page</button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide4')">TxtRegion</button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide5')">ImgRegion</button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide6')">LineDrawRegion</button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide7')">GraphRegion</button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide8')">TabRegion</button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide9')">ChartRegion</button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide10')">SepRegion</button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide11')">MathRegion</button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide12')">ChemRegion</button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide13')">MusicRegion</button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide14')">AdRegion</button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide15')">NoiseRegion</button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide16')">UnkownRegion</button>
+                  <button onclick="document.getElementById('table_id').classList.toggle('hide17')">CustomRegion</button>
                </div>
             </td>
          </tr>
