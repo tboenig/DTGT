@@ -44,7 +44,7 @@
                   <dt>TxtRegion</dt>
                   <dd>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
-                         target="_blank">TextRegion</a>
+                        target="_blank">TextRegion</a>
                   </dd>
                </dl>
             </details>
