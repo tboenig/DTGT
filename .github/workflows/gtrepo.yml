@@ -49,6 +49,13 @@ jobs:
     
     #- name: made bagit
     #  run: sh scripts/data_structure.sh
+    
+    
+    - name: Get SDK Version from config
+      id: lookupSdkVersion
+      uses: mikefarah/yq@master
+      with:
+       cmd: yq -o=json METADATA.yml > METADATA.json
       
        
     - name: transform METADATA and make GT-Overview
