@@ -7,11 +7,11 @@
       <dt>Description:</dt>
       <dd>This repository contains transcriptions for some journals which were digitized by the University Library of Tübingen in the DigiTheo project (http://idb.ub.uni-tuebingen.de/digitue/theo/).</dd>
       <dt>Language:</dt>
-      <dd/>
+      <dd>deu</dd>
       <dt>Format:</dt>
       <dd>Page-XML</dd>
       <dt>Time:</dt>
-      <dd>-</dd>
+      <dd>1860-1872</dd>
       <dt>GT Type:</dt>
       <dd>data_line</dd>
    </dl>
