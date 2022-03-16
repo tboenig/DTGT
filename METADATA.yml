@@ -1,7 +1,21 @@
+
 schema: https://github.com/tboenig/DTGT/schema/2022-03-15/schema.json
 title: DigiTheo Ground Truth
 url: https://github.com/tboenig/DTGT
-authors: []
+authors:
+  - name: Faßnacht
+    surname: 'Martin '
+    roles:
+      - project-manager
+      - digitization
+      - support
+  - name: Weil
+    surname: Stefan
+    roles:
+      - transcriber
+      - project-manager
+      - digitization
+      - support
 description: >-
   This repository contains transcriptions for some journals which were digitized
   by the University Library of Tübingen in the DigiTheo project
@@ -11,7 +25,7 @@ project-website: http://idb.ub.uni-tuebingen.de/digitue/theo/
 language:
   - deu
 script: []
-script-type: only-typed
+script-type: print
 time:
   notBefore: '1860'
   notAfter: '1872'
@@ -20,8 +34,11 @@ hands:
   precision: exact
 license:
   - name: CC0 1.0
-    url: https://creativecommons.org/licenses/by/4.0/
+    url: https://creativecommons.org/licenses/zero/1.0/
 gtTyp: data_line
+volume:
+  - metric: lines
+    count: 5451
 transcription-guidelines: >-
   The transcriptions were done with eScriptorium, a transcription platform
   developed as part of the Scripta and RESILIENCE projects
