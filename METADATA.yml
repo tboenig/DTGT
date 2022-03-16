@@ -1,0 +1,29 @@
+schema: https://github.com/tboenig/DTGT/schema/2022-03-15/schema.json
+title: DigiTheo Ground Truth
+url: https://github.com/tboenig/DTGT
+authors: []
+description: >-
+  This repository contains transcriptions for some journals which were digitized
+  by the University Library of Tübingen in the DigiTheo project
+  (http://idb.ub.uni-tuebingen.de/digitue/theo/).
+project-name: Theologie digital
+project-website: http://idb.ub.uni-tuebingen.de/digitue/theo/
+language:
+  - deu
+script: []
+script-type: only-typed
+time:
+  notBefore: '1860'
+  notAfter: '1872'
+hands:
+  count: '1'
+  precision: exact
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+gtTyp: data_line
+transcription-guidelines: >-
+  The transcriptions were done with eScriptorium, a transcription platform
+  developed as part of the Scripta and RESILIENCE projects
+  (https://gitlab.com/scripta/escriptorium/).
+format: Page-XML
