@@ -33,6 +33,8 @@ jobs:
     - name: Download and install saxon
       run: wget https://sourceforge.net/projects/saxon/files/Saxon-HE/10/Java/SaxonHE10-5J.zip/download && unzip download
     
+    - name: Download and install saxon_ee 
+      run: wget https://www.saxonica.com/download/SaxonEE11-1J.zip && unzip SaxonEE11-1J.zip
    
                   
     #- name: testocrd
@@ -50,16 +52,16 @@ jobs:
       
        
     - name: transform METADATA and make GT-Overview
-      run: sudo java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl output=METADATA repoBase=$GITHUB_REF_NAME repoName=$GITHUB_REPOSITORY -s:scripts/gt-overview_metadata.xsl -o:ghout/metadata.md
+      run: sudo java -jar saxon-ee-11.1.jar -xsl:scripts/gt-overview_metadata.xsl output=METADATA repoBase=$GITHUB_REF_NAME repoName=$GITHUB_REPOSITORY -s:scripts/gt-overview_metadata.xsl -o:ghout/metadata.md
       shell: bash
       
 
     - name: make Compressed table view
-      run: sudo java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl output=TABLE  repoBase=$GITHUB_REF_NAME repoName=$GITHUB_REPOSITORY -s:scripts/gt-overview_metadata.xsl -o:ghout/table.md
+      run: sudo java -jar saxon-ee-11.1.jar -xsl:scripts/gt-overview_metadata.xsl output=TABLE  repoBase=$GITHUB_REF_NAME repoName=$GITHUB_REPOSITORY -s:scripts/gt-overview_metadata.xsl -o:ghout/table.md
       shell: bash
 
     - name: Detailed table view
-      run: sudo java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl output=OVERVIEW  repoBase=$GITHUB_REF_NAME repoName=$GITHUB_REPOSITORY -s:scripts/gt-overview_metadata.xsl -o:ghout/overview.md
+      run: sudo java -jar saxon-ee-11.1.jar -xsl:scripts/gt-overview_metadata.xsl output=OVERVIEW  repoBase=$GITHUB_REF_NAME repoName=$GITHUB_REPOSITORY -s:scripts/gt-overview_metadata.xsl -o:ghout/overview.md
       shell: bash
                                                                                      
     - name: copy css styles and yml files to ghout
