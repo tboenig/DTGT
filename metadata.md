@@ -5,15 +5,15 @@
       <dt>Name:</dt>
       <dd>DigiTheo Ground Truth</dd>
       <dt>Description:</dt>
-      <dd>This repository contains transcriptions for some journals which were digitized by the University Library of Tübingen in the DigiTheo project (http://idb.ub.uni-tuebingen.de/digitue/theo/). The transcriptions were done with eScriptorium, a transcription platform developed as part of the Scripta and RESILIENCE projects (https://gitlab.com/scripta/escriptorium/).</dd>
+      <dd>This repository contains transcriptions for some journals which were digitized by the University Library of Tübingen in the DigiTheo project (http://idb.ub.uni-tuebingen.de/digitue/theo/).</dd>
       <dt>Language:</dt>
-      <dd>deu</dd>
+      <dd/>
       <dt>Format:</dt>
-      <dd>PAGE</dd>
+      <dd>Page-XML</dd>
       <dt>Time:</dt>
-      <dd>1860-1872</dd>
+      <dd>-</dd>
       <dt>GT Type:</dt>
-      <dd>line</dd>
+      <dd>data_line</dd>
    </dl>
 </div>
 <div class="metadata">
@@ -31,7 +31,7 @@
                   <dt>TxtRegion</dt>
                   <dd>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
-                        target="_blank">TextRegion</a>
+                         target="_blank">TextRegion</a>
                   </dd>
                </dl>
             </details>
