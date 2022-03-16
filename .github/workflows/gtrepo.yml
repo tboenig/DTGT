@@ -10,15 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-    #- run: ${{ github.repository}}
-    
-    #- run: name=REPO_OWNER::${{ github.event.repository.owner }}
-    
-    # - run: printenv;
-    # - run: echo $GITHUB_ACTOR && java -version
-    #  shell: bash
-    
-       
     - name: Git checkout
       uses: actions/checkout@v2
       
