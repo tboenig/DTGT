@@ -21,7 +21,7 @@
          <dt>Transcription Guidelines:</dt>
          <dd>The transcriptions were done with eScriptorium, a transcription platform developed as part of the Scripta and RESILIENCE projects (https://gitlab.com/scripta/escriptorium/).</dd>
          <dt>License:</dt>
-         <dd>CC-BY 4.0</dd>
+         <dd>CC0 1.0</dd>
          <dt>Project:</dt>
          <dd>Theologie digital</dd>
          <dt>Project-URL:</dt>
