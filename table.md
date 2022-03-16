@@ -26,6 +26,19 @@
       <dt>GT Type:</dt>
       <dd>data_line</dd>
    </dl>
+   <details>
+      <summary>More Information</summary>
+      <dl class="more-grid">
+         <dt>Transcription Guidelines:</dt>
+         <dd>The transcriptions were done with eScriptorium, a transcription platform developed as part of the Scripta and RESILIENCE projects (https://gitlab.com/scripta/escriptorium/).</dd>
+         <dt>License:</dt>
+         <dd>CC-BY 4.0"/&gt;</dd>
+         <dt>Project:</dt>
+         <dd>Theologie digital</dd>
+         <dt>Project-URL:</dt>
+         <dd>http://idb.ub.uni-tuebingen.de/digitue/theo/</dd>
+      </dl>
+   </details>
    <h2>Compressed table view</h2>
    <div>
       <table class="noStyle">
