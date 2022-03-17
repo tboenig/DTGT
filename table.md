@@ -2664,7 +2664,7 @@
                </td>
             </tr>
             <tr>
-               <th>Allgemeine_kirchliche_Zeitung/1860</th>
+               <th>Allgemeine_kirchliche_Zeitschrift/1860</th>
                <td>1166</td>
                <td>30</td>
                <td>87</td>
@@ -2710,7 +2710,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/26_63d1f_default.xml">26_63d1f_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/26_63d1f_default.xml">26_63d1f_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -2731,7 +2731,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/9_44a88_default.xml">9_44a88_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/9_44a88_default.xml">9_44a88_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -2752,7 +2752,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/19_371d3_default.xml">19_371d3_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/19_371d3_default.xml">19_371d3_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -2773,7 +2773,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/13_778a6_default.xml">13_778a6_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/13_778a6_default.xml">13_778a6_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -2794,7 +2794,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/22_d8f2f_default.xml">22_d8f2f_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/22_d8f2f_default.xml">22_d8f2f_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -2815,7 +2815,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/12_3fbd8_default.xml">12_3fbd8_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/12_3fbd8_default.xml">12_3fbd8_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -2836,7 +2836,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/17_d6b06_default.xml">17_d6b06_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/17_d6b06_default.xml">17_d6b06_default.xml</a>
                            </td>
                            <td>42</td>
                            <td>1</td>
@@ -2857,7 +2857,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/24_8e6d8_default.xml">24_8e6d8_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/24_8e6d8_default.xml">24_8e6d8_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -2878,7 +2878,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/10_0305b_default.xml">10_0305b_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/10_0305b_default.xml">10_0305b_default.xml</a>
                            </td>
                            <td>42</td>
                            <td>1</td>
@@ -2899,7 +2899,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/1_221e9_default.xml">1_221e9_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/1_221e9_default.xml">1_221e9_default.xml</a>
                            </td>
                            <td>2</td>
                            <td>1</td>
@@ -2920,7 +2920,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/7_9ac5f_default.xml">7_9ac5f_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/7_9ac5f_default.xml">7_9ac5f_default.xml</a>
                            </td>
                            <td>42</td>
                            <td>1</td>
@@ -2941,7 +2941,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/8_4c9ce_default.xml">8_4c9ce_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/8_4c9ce_default.xml">8_4c9ce_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -2962,7 +2962,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/27_66e57_default.xml">27_66e57_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/27_66e57_default.xml">27_66e57_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -2983,7 +2983,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/4_3c677_default.xml">4_3c677_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/4_3c677_default.xml">4_3c677_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -3004,7 +3004,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/11_7175e_default.xml">11_7175e_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/11_7175e_default.xml">11_7175e_default.xml</a>
                            </td>
                            <td>42</td>
                            <td>1</td>
@@ -3025,7 +3025,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/2_aa780_default.xml">2_aa780_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/2_aa780_default.xml">2_aa780_default.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -3046,7 +3046,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/14_6e1d1_default.xml">14_6e1d1_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/14_6e1d1_default.xml">14_6e1d1_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -3067,7 +3067,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/23_00708_default.xml">23_00708_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/23_00708_default.xml">23_00708_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -3088,7 +3088,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/18_1f153_default.xml">18_1f153_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/18_1f153_default.xml">18_1f153_default.xml</a>
                            </td>
                            <td>44</td>
                            <td>1</td>
@@ -3109,7 +3109,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/15_2d439_default.xml">15_2d439_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/15_2d439_default.xml">15_2d439_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -3130,7 +3130,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/6_b4865_default.xml">6_b4865_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/6_b4865_default.xml">6_b4865_default.xml</a>
                            </td>
                            <td>36</td>
                            <td>1</td>
@@ -3151,7 +3151,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/20_4e68f_default.xml">20_4e68f_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/20_4e68f_default.xml">20_4e68f_default.xml</a>
                            </td>
                            <td>42</td>
                            <td>1</td>
@@ -3172,7 +3172,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/0_c6c10_default.xml">0_c6c10_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/0_c6c10_default.xml">0_c6c10_default.xml</a>
                            </td>
                            <td>0</td>
                            <td>1</td>
@@ -3193,7 +3193,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/5_704b7_default.xml">5_704b7_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/5_704b7_default.xml">5_704b7_default.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -3214,7 +3214,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/28_3fd17_default.xml">28_3fd17_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/28_3fd17_default.xml">28_3fd17_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -3235,7 +3235,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/3_b28d4_default.xml">3_b28d4_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/3_b28d4_default.xml">3_b28d4_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -3256,7 +3256,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/21_da7a2_default.xml">21_da7a2_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/21_da7a2_default.xml">21_da7a2_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -3277,7 +3277,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/25_c368f_default.xml">25_c368f_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/25_c368f_default.xml">25_c368f_default.xml</a>
                            </td>
                            <td>42</td>
                            <td>1</td>
@@ -3298,7 +3298,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/16_a23d4_default.xml">16_a23d4_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/16_a23d4_default.xml">16_a23d4_default.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -3319,9 +3319,478 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitung/1860/page/29_557de_default.xml">29_557de_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Allgemeine_kirchliche_Zeitschrift/1860/page/29_557de_default.xml">29_557de_default.xml</a>
                            </td>
                            <td>44</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>Die_paepstliche_Unfehlbarkeit</th>
+               <td>731</td>
+               <td>20</td>
+               <td>39</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/12_28dca_default.xml">12_28dca_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/6_17bd1_default.xml">6_17bd1_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/5_5feea_default.xml">5_5feea_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/2_7cd63_default.xml">2_7cd63_default.xml</a>
+                           </td>
+                           <td>31</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/16_711a8_default.xml">16_711a8_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/1_f5a94_default.xml">1_f5a94_default.xml</a>
+                           </td>
+                           <td>2</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/15_79fa4_default.xml">15_79fa4_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/13_d23c9_default.xml">13_d23c9_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/7_e2806_default.xml">7_e2806_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/9_2b6df_default.xml">9_2b6df_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/8_87bde_default.xml">8_87bde_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/4_b74f9_default.xml">4_b74f9_default.xml</a>
+                           </td>
+                           <td>42</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/14_f0637_default.xml">14_f0637_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/19_7cddf_default.xml">19_7cddf_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/0_48dd2_default.xml">0_48dd2_default.xml</a>
+                           </td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/18_1f4d8_default.xml">18_1f4d8_default.xml</a>
+                           </td>
+                           <td>42</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/3_9c39d_default.xml">3_9c39d_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/10_d2272_default.xml">10_d2272_default.xml</a>
+                           </td>
+                           <td>40</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/17_bf6f0_default.xml">17_bf6f0_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data_line/Die_paepstliche_Unfehlbarkeit/page/11_f8940_default.xml">11_f8940_default.xml</a>
+                           </td>
+                           <td>41</td>
                            <td>1</td>
                            <td>3</td>
                            <td>0</td>
