@@ -38,7 +38,7 @@ license:
 gtTyp: data_line
 volume:
   - metric: lines
-    count: 5451
+    count: 6182
 transcription-guidelines: >-
   The transcriptions were done with eScriptorium, a transcription platform
   developed as part of the Scripta and RESILIENCE projects
