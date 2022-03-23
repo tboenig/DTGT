@@ -33,7 +33,7 @@ jobs:
               
     
     
-    #- name: made ocrdzip_out
+    # - name: made ocrdzip_out
     #  run: sudo mkdir ocrdzip_out
       
     - name: made gh-pages_out
