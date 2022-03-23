@@ -77,7 +77,7 @@ jobs:
       run: sudo cp scripts/table_hide.css ghout/;sudo cp scripts/_config.yml ghout/ 
 
 
-    #- name: Archive the ocrdzip files from ocrdzip_out folder
+    # - name: Archive the ocrdzip files from ocrdzip_out folder
     #  uses: thedoctor0/zip-release@master
     #  with:
     #     filename: site.zip
