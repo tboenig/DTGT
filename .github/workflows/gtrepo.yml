@@ -40,8 +40,7 @@ jobs:
       run: sudo mkdir ghout
     
     
-    #- name: made bagit
-    #  run: sh scripts/data_structure.sh
+    
     
     
     - name: Get SDK Version from config
@@ -70,6 +69,9 @@ jobs:
     - name: generated mets.sh
       run: sudo java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl output=METS repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY -s:scripts/gt-overview_metadata.xsl -o:ghout/mets.sh
       shell: bash  
+      
+    - name: made bagit
+      run: sh scripts/data_structure.sh  
                                                                                      
     - name: copy css styles and yml files to ghout
       run: sudo cp scripts/table_hide.css ghout/;sudo cp scripts/_config.yml ghout/ 
