@@ -40,9 +40,6 @@ jobs:
       run: sudo mkdir ghout
     
     
-    
-    
-    
     - name: Get SDK Version from config
       id: lookupSdkVersion
       uses: mikefarah/yq@master
