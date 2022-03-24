@@ -6,7 +6,7 @@ name: gtrepo
   workflow_dispatch:
 jobs:
   cli:
-    name: gtrepo_and_Bagit
+    name: gtrepo_And_Bagit
     runs-on: ubuntu-latest
     steps:
     
