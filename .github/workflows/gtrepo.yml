@@ -18,8 +18,8 @@ jobs:
      
     # Instalations
       
-    # - name: install ocrd
-    #  run: git clone --depth 1 https://github.com/OCR-D/core; ls -l;cd core; make install;cd ..;rm -rf core
+    - name: install ocrd
+      run: git clone --depth 1 https://github.com/OCR-D/core; ls -l;cd core; make install;cd ..;rm -rf core
 
     #- name: testocrd
     #  run: ocrd --version
