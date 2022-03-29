@@ -33,8 +33,8 @@ jobs:
               
     
     
-    # - name: made ocrdzip_out
-    #  run: sudo mkdir ocrdzip_out
+    - name: made ocrdzip_out
+      run: sudo mkdir ocrdzip_out
       
     - name: made gh-pages_out
       run: sudo mkdir ghout
@@ -74,37 +74,37 @@ jobs:
       run: sudo cp scripts/table_hide.css ghout/;sudo cp scripts/_config.yml ghout/ 
 
 
-    # - name: Archive the ocrdzip files from ocrdzip_out folder
-    #  uses: thedoctor0/zip-release@master
-    #  with:
-    #     filename: site.zip
-    #     path: 'ocrdzip_out'
+    - name: Archive the ocrdzip files from ocrdzip_out folder
+      uses: thedoctor0/zip-release@master
+      with:
+         filename: site.zip
+         path: 'ocrdzip_out'
       
     
-    #- name: Create GitHub release
-    #  id: create-new-release
-    #  uses: actions/create-release@latest
-    #  env:
-    #      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    #  with:
-    #      tag_name: v${{ github.run_number }}
-    #      release_name: Release ${{ github.run_number }}
-    #      body_path: release_note.md 
-    #      draft: false
-    #      prerelease: false
+    - name: Create GitHub release
+      id: create-new-release
+      uses: actions/create-release@latest
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+          tag_name: v${{ github.run_number }}
+          release_name: Release ${{ github.run_number }}
+          body_path: release_note.md 
+          draft: false
+          prerelease: false
      
     
-    #- name: Upload asset to GitHub release
-    #  uses: actions/upload-release-asset@latest
-    #  env:
-    #      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    #  with:
-    #      tag_name: ${{ github.run_number }}
-    #      release_name: Release ${{ github.run_number }}
-    #      upload_url: ${{ steps.create-new-release.outputs.upload_url }}
-    #      asset_path: ./site.zip
-    #      asset_name: bagitDump-v${{ github.run_number }}.zip
-    #      asset_content_type: application/zip
+    - name: Upload asset to GitHub release
+      uses: actions/upload-release-asset@latest
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+          tag_name: ${{ github.run_number }}
+          release_name: Release ${{ github.run_number }}
+          upload_url: ${{ steps.create-new-release.outputs.upload_url }}
+          asset_path: ./site.zip
+          asset_name: bagitDump-v${{ github.run_number }}.zip
+          asset_content_type: application/zip
           
    
    
