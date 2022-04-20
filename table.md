@@ -193,10 +193,10 @@
          </thead>
          <tbody>
             <tr>
-               <th>Stimmen_aus_Maria-Laach/1872</th>
-               <td>3340</td>
-               <td>88</td>
-               <td>244</td>
+               <th>Die_paepstliche_Unfehlbarkeit</th>
+               <td>731</td>
+               <td>20</td>
+               <td>39</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -239,9 +239,30 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/25_1c353_default.xml">25_1c353_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/10_d2272_default.xml">10_d2272_default.xml</a>
                            </td>
-                           <td>39</td>
+                           <td>40</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/14_f0637_default.xml">14_f0637_default.xml</a>
+                           </td>
+                           <td>41</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -260,9 +281,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/64_eff03_default.xml">64_eff03_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/3_9c39d_default.xml">3_9c39d_default.xml</a>
                            </td>
-                           <td>39</td>
+                           <td>41</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -281,9 +302,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/69_d84c0_default.xml">69_d84c0_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/17_bf6f0_default.xml">17_bf6f0_default.xml</a>
                            </td>
-                           <td>39</td>
+                           <td>41</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -302,9 +323,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/29_eebf1_default.xml">29_eebf1_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/7_e2806_default.xml">7_e2806_default.xml</a>
                            </td>
-                           <td>39</td>
+                           <td>41</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -323,11 +344,11 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/18_313ca_default.xml">18_313ca_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/0_48dd2_default.xml">0_48dd2_default.xml</a>
                            </td>
-                           <td>38</td>
+                           <td>0</td>
                            <td>1</td>
-                           <td>5</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -344,51 +365,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/82_28b6b_default.xml">82_28b6b_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/16_711a8_default.xml">16_711a8_default.xml</a>
                            </td>
-                           <td>48</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/40_4c7d9_default.xml">40_4c7d9_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/50_264d2_default.xml">50_264d2_default.xml</a>
-                           </td>
-                           <td>39</td>
+                           <td>41</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -407,9 +386,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/52_e7ef1_default.xml">52_e7ef1_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/6_17bd1_default.xml">6_17bd1_default.xml</a>
                            </td>
-                           <td>39</td>
+                           <td>41</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -428,30 +407,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/76_56ea9_default.xml">76_56ea9_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/1_f5a94_default.xml">1_f5a94_default.xml</a>
                            </td>
-                           <td>21</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/30_0feed_default.xml">30_0feed_default.xml</a>
-                           </td>
-                           <td>39</td>
+                           <td>2</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -470,91 +428,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/85_cae5b_default.xml">85_cae5b_default.xml</a>
-                           </td>
-                           <td>48</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/79_79791_default.xml">79_79791_default.xml</a>
-                           </td>
-                           <td>48</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/3_0abd4_default.xml">3_0abd4_default.xml</a>
-                           </td>
-                           <td>3</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/46_c4ee4_default.xml">46_c4ee4_default.xml</a>
-                           </td>
-                           <td>49</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/72_22672_default.xml">72_22672_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/11_f8940_default.xml">11_f8940_default.xml</a>
                            </td>
                            <td>41</td>
                            <td>1</td>
@@ -575,51 +449,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/83_25f76_default.xml">83_25f76_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/5_5feea_default.xml">5_5feea_default.xml</a>
                            </td>
-                           <td>48</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/33_ba234_default.xml">33_ba234_default.xml</a>
-                           </td>
-                           <td>40</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/19_b5cf5_default.xml">19_b5cf5_default.xml</a>
-                           </td>
-                           <td>39</td>
+                           <td>41</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -638,30 +470,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/35_df273_default.xml">35_df273_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/13_d23c9_default.xml">13_d23c9_default.xml</a>
                            </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/43_594b0_default.xml">43_594b0_default.xml</a>
-                           </td>
-                           <td>38</td>
+                           <td>41</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -680,30 +491,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/73_5a60e_default.xml">73_5a60e_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/12_28dca_default.xml">12_28dca_default.xml</a>
                            </td>
-                           <td>40</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/17_9e825_default.xml">17_9e825_default.xml</a>
-                           </td>
-                           <td>39</td>
+                           <td>41</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -722,72 +512,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/21_5155f_default.xml">21_5155f_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/15_79fa4_default.xml">15_79fa4_default.xml</a>
                            </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/34_68d36_default.xml">34_68d36_default.xml</a>
-                           </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/77_ec563_default.xml">77_ec563_default.xml</a>
-                           </td>
-                           <td>36</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/49_f2b10_default.xml">49_f2b10_default.xml</a>
-                           </td>
-                           <td>40</td>
+                           <td>41</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -806,343 +533,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/14_d6f50_default.xml">14_d6f50_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/4_0874f_default.xml">4_0874f_default.xml</a>
-                           </td>
-                           <td>36</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/41_c43ea_default.xml">41_c43ea_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/65_85b93_default.xml">65_85b93_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/9_f9db1_default.xml">9_f9db1_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/10_d30c6_default.xml">10_d30c6_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/66_b9e05_default.xml">66_b9e05_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/38_15b80_default.xml">38_15b80_default.xml</a>
-                           </td>
-                           <td>40</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/11_79cd9_default.xml">11_79cd9_default.xml</a>
-                           </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/42_a64d8_default.xml">42_a64d8_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/47_3795f_default.xml">47_3795f_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/2_bf57d_default.xml">2_bf57d_default.xml</a>
-                           </td>
-                           <td>7</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/16_1d42f_default.xml">16_1d42f_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/7_53b99_default.xml">7_53b99_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/80_c22ac_default.xml">80_c22ac_default.xml</a>
-                           </td>
-                           <td>48</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/51_1528b_default.xml">51_1528b_default.xml</a>
-                           </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/44_af498_default.xml">44_af498_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/18_1f4d8_default.xml">18_1f4d8_default.xml</a>
                            </td>
                            <td>42</td>
                            <td>1</td>
@@ -1163,72 +554,72 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/23_a80c6_default.xml">23_a80c6_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/20_67438_default.xml">20_67438_default.xml</a>
-                           </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/78_792f6_default.xml">78_792f6_default.xml</a>
-                           </td>
-                           <td>48</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/37_3710a_default.xml">37_3710a_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/19_7cddf_default.xml">19_7cddf_default.xml</a>
                            </td>
                            <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/8_87bde_default.xml">8_87bde_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/9_2b6df_default.xml">9_2b6df_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/4_b74f9_default.xml">4_b74f9_default.xml</a>
+                           </td>
+                           <td>42</td>
                            <td>1</td>
                            <td>3</td>
                            <td>0</td>
@@ -1247,11 +638,11 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/6_4bd2b_default.xml">6_4bd2b_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/2_7cd63_default.xml">2_7cd63_default.xml</a>
                            </td>
                            <td>31</td>
                            <td>1</td>
-                           <td>3</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1266,95 +657,60 @@
                            <td>0</td>
                            <td>0</td>
                         </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>Allgemeine_kirchliche_Zeitschrift/1860</th>
+               <td>1166</td>
+               <td>30</td>
+               <td>87</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/86_5c8ee_default.xml">86_5c8ee_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/23_00708_default.xml">23_00708_default.xml</a>
                            </td>
-                           <td>52</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/59_9074c_default.xml">59_9074c_default.xml</a>
-                           </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/54_81bd9_default.xml">54_81bd9_default.xml</a>
-                           </td>
-                           <td>40</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/39_3cade_default.xml">39_3cade_default.xml</a>
-                           </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/13_21f79_default.xml">13_21f79_default.xml</a>
-                           </td>
-                           <td>39</td>
+                           <td>43</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -1373,11 +729,11 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/75_e9d5e_default.xml">75_e9d5e_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/14_6e1d1_default.xml">14_6e1d1_default.xml</a>
                            </td>
-                           <td>40</td>
+                           <td>43</td>
                            <td>1</td>
-                           <td>3</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1394,9 +750,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/26_2de1a_default.xml">26_2de1a_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/20_4e68f_default.xml">20_4e68f_default.xml</a>
                            </td>
-                           <td>32</td>
+                           <td>42</td>
                            <td>1</td>
                            <td>5</td>
                            <td>0</td>
@@ -1415,9 +771,30 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/31_8ddb3_default.xml">31_8ddb3_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/0_c6c10_default.xml">0_c6c10_default.xml</a>
                            </td>
-                           <td>38</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/3_b28d4_default.xml">3_b28d4_default.xml</a>
+                           </td>
+                           <td>43</td>
                            <td>1</td>
                            <td>3</td>
                            <td>0</td>
@@ -1436,9 +813,51 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/22_115a4_default.xml">22_115a4_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/25_c368f_default.xml">25_c368f_default.xml</a>
                            </td>
-                           <td>41</td>
+                           <td>42</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/18_1f153_default.xml">18_1f153_default.xml</a>
+                           </td>
+                           <td>44</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/22_d8f2f_default.xml">22_d8f2f_default.xml</a>
+                           </td>
+                           <td>43</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -1457,30 +876,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/48_c279f_default.xml">48_c279f_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/6_b4865_default.xml">6_b4865_default.xml</a>
                            </td>
-                           <td>41</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/27_5a1e8_default.xml">27_5a1e8_default.xml</a>
-                           </td>
-                           <td>38</td>
+                           <td>36</td>
                            <td>1</td>
                            <td>4</td>
                            <td>0</td>
@@ -1499,135 +897,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/71_917b4_default.xml">71_917b4_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/11_7175e_default.xml">11_7175e_default.xml</a>
                            </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/63_ad2b3_default.xml">63_ad2b3_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/8_86416_default.xml">8_86416_default.xml</a>
-                           </td>
-                           <td>40</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/32_e5edb_default.xml">32_e5edb_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/81_ddf09_default.xml">81_ddf09_default.xml</a>
-                           </td>
-                           <td>48</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/36_d328a_default.xml">36_d328a_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/70_50841_default.xml">70_50841_default.xml</a>
-                           </td>
-                           <td>40</td>
+                           <td>42</td>
                            <td>1</td>
                            <td>4</td>
                            <td>0</td>
@@ -1646,30 +918,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/0_effcb_default.xml">0_effcb_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/9_44a88_default.xml">9_44a88_default.xml</a>
                            </td>
-                           <td>7</td>
-                           <td>1</td>
-                           <td>8</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/62_46295_default.xml">62_46295_default.xml</a>
-                           </td>
-                           <td>38</td>
+                           <td>43</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -1688,9 +939,114 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/24_ea698_default.xml">24_ea698_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/12_3fbd8_default.xml">12_3fbd8_default.xml</a>
                            </td>
-                           <td>40</td>
+                           <td>43</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/8_4c9ce_default.xml">8_4c9ce_default.xml</a>
+                           </td>
+                           <td>43</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/19_371d3_default.xml">19_371d3_default.xml</a>
+                           </td>
+                           <td>43</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/13_778a6_default.xml">13_778a6_default.xml</a>
+                           </td>
+                           <td>43</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/2_aa780_default.xml">2_aa780_default.xml</a>
+                           </td>
+                           <td>29</td>
+                           <td>1</td>
+                           <td>9</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/26_63d1f_default.xml">26_63d1f_default.xml</a>
+                           </td>
+                           <td>43</td>
                            <td>1</td>
                            <td>3</td>
                            <td>0</td>
@@ -1709,114 +1065,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/45_b2f73_default.xml">45_b2f73_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/4_3c677_default.xml">4_3c677_default.xml</a>
                            </td>
-                           <td>41</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/87_2c5b7_default.xml">87_2c5b7_default.xml</a>
-                           </td>
-                           <td>40</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/68_82dd8_default.xml">68_82dd8_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/57_58b41_default.xml">57_58b41_default.xml</a>
-                           </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/74_e3719_default.xml">74_e3719_default.xml</a>
-                           </td>
-                           <td>40</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/28_01dd9_default.xml">28_01dd9_default.xml</a>
-                           </td>
-                           <td>39</td>
+                           <td>43</td>
                            <td>1</td>
                            <td>4</td>
                            <td>0</td>
@@ -1835,9 +1086,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/60_1d362_default.xml">60_1d362_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/28_3fd17_default.xml">28_3fd17_default.xml</a>
                            </td>
-                           <td>39</td>
+                           <td>43</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -1856,9 +1107,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/67_3be02_default.xml">67_3be02_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/27_66e57_default.xml">27_66e57_default.xml</a>
                            </td>
-                           <td>39</td>
+                           <td>43</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -1877,9 +1128,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/53_a817f_default.xml">53_a817f_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/15_2d439_default.xml">15_2d439_default.xml</a>
                            </td>
-                           <td>40</td>
+                           <td>43</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -1898,9 +1149,72 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/1_dc648_default.xml">1_dc648_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/10_0305b_default.xml">10_0305b_default.xml</a>
                            </td>
+                           <td>42</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/24_8e6d8_default.xml">24_8e6d8_default.xml</a>
+                           </td>
+                           <td>43</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/29_557de_default.xml">29_557de_default.xml</a>
+                           </td>
+                           <td>44</td>
+                           <td>1</td>
                            <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/16_a23d4_default.xml">16_a23d4_default.xml</a>
+                           </td>
+                           <td>43</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -1919,9 +1233,30 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/12_ad12c_default.xml">12_ad12c_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/5_704b7_default.xml">5_704b7_default.xml</a>
                            </td>
-                           <td>39</td>
+                           <td>28</td>
+                           <td>1</td>
+                           <td>9</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/1_221e9_default.xml">1_221e9_default.xml</a>
+                           </td>
+                           <td>2</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -1940,51 +1275,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/5_fcbbf_default.xml">5_fcbbf_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/17_d6b06_default.xml">17_d6b06_default.xml</a>
                            </td>
-                           <td>21</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/55_db23f_default.xml">55_db23f_default.xml</a>
-                           </td>
-                           <td>33</td>
-                           <td>1</td>
-                           <td>6</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/56_65945_default.xml">56_65945_default.xml</a>
-                           </td>
-                           <td>40</td>
+                           <td>42</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -2003,11 +1296,11 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/61_a58b0_default.xml">61_a58b0_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/21_da7a2_default.xml">21_da7a2_default.xml</a>
                            </td>
-                           <td>39</td>
+                           <td>43</td>
                            <td>1</td>
-                           <td>2</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -2024,51 +1317,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/84_449d0_default.xml">84_449d0_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/7_9ac5f_default.xml">7_9ac5f_default.xml</a>
                            </td>
-                           <td>49</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/58_c5af0_default.xml">58_c5af0_default.xml</a>
-                           </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/15_db73b_default.xml">15_db73b_default.xml</a>
-                           </td>
-                           <td>39</td>
+                           <td>42</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -2136,179 +1387,11 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/19_edba4_default.xml">19_edba4_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/0_cf417_default.xml">0_cf417_default.xml</a>
                            </td>
-                           <td>39</td>
+                           <td>0</td>
                            <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/9_61189_default.xml">9_61189_default.xml</a>
-                           </td>
-                           <td>39</td>
                            <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/10_e44c9_default.xml">10_e44c9_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/22_03ea5_default.xml">22_03ea5_default.xml</a>
-                           </td>
-                           <td>41</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/16_d4de7_default.xml">16_d4de7_default.xml</a>
-                           </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/7_16b53_default.xml">7_16b53_default.xml</a>
-                           </td>
-                           <td>42</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/3_2fc80_default.xml">3_2fc80_default.xml</a>
-                           </td>
-                           <td>2</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/2_8cd19_default.xml">2_8cd19_default.xml</a>
-                           </td>
-                           <td>7</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/24_3d24c_default.xml">24_3d24c_default.xml</a>
-                           </td>
-                           <td>87</td>
-                           <td>1</td>
-                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -2346,198 +1429,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/17_54c18_default.xml">17_54c18_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
                               <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/15_3a645_default.xml">15_3a645_default.xml</a>
                            </td>
                            <td>39</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/0_cf417_default.xml">0_cf417_default.xml</a>
-                           </td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/1_b943e_default.xml">1_b943e_default.xml</a>
-                           </td>
-                           <td>2</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/8_91d9f_default.xml">8_91d9f_default.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/11_9a3c3_default.xml">11_9a3c3_default.xml</a>
-                           </td>
-                           <td>40</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/13_ad06f_default.xml">13_ad06f_default.xml</a>
-                           </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/4_c8333_default.xml">4_c8333_default.xml</a>
-                           </td>
-                           <td>90</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/5_14061_default.xml">5_14061_default.xml</a>
-                           </td>
-                           <td>65</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/6_1a933_default.xml">6_1a933_default.xml</a>
-                           </td>
-                           <td>32</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -2577,11 +1471,158 @@
                         </tr>
                         <tr>
                            <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/4_c8333_default.xml">4_c8333_default.xml</a>
+                           </td>
+                           <td>90</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/19_edba4_default.xml">19_edba4_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/24_3d24c_default.xml">24_3d24c_default.xml</a>
+                           </td>
+                           <td>87</td>
+                           <td>1</td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/10_e44c9_default.xml">10_e44c9_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
                               <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/12_a95d7_default.xml">12_a95d7_default.xml</a>
                            </td>
                            <td>39</td>
                            <td>1</td>
                            <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/9_61189_default.xml">9_61189_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/7_16b53_default.xml">7_16b53_default.xml</a>
+                           </td>
+                           <td>42</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/17_54c18_default.xml">17_54c18_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -2619,9 +1660,93 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/14_9b616_default.xml">14_9b616_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/2_8cd19_default.xml">2_8cd19_default.xml</a>
+                           </td>
+                           <td>7</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/1_b943e_default.xml">1_b943e_default.xml</a>
+                           </td>
+                           <td>2</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/16_d4de7_default.xml">16_d4de7_default.xml</a>
                            </td>
                            <td>38</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/3_2fc80_default.xml">3_2fc80_default.xml</a>
+                           </td>
+                           <td>2</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/6_1a933_default.xml">6_1a933_default.xml</a>
+                           </td>
+                           <td>32</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -2659,15 +1784,141 @@
                            <td>0</td>
                            <td>0</td>
                         </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/22_03ea5_default.xml">22_03ea5_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/13_ad06f_default.xml">13_ad06f_default.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/11_9a3c3_default.xml">11_9a3c3_default.xml</a>
+                           </td>
+                           <td>40</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/5_14061_default.xml">5_14061_default.xml</a>
+                           </td>
+                           <td>65</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/14_9b616_default.xml">14_9b616_default.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1871/GT-PAGE/8_91d9f_default.xml">8_91d9f_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
                      </table>
                   </details>
                </td>
             </tr>
             <tr>
-               <th>Allgemeine_kirchliche_Zeitschrift/1860</th>
-               <td>1166</td>
-               <td>30</td>
-               <td>87</td>
+               <th>Stimmen_aus_Maria-Laach/1872</th>
+               <td>3340</td>
+               <td>88</td>
+               <td>244</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -2710,9 +1961,30 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/26_63d1f_default.xml">26_63d1f_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/48_c279f_default.xml">48_c279f_default.xml</a>
                            </td>
-                           <td>43</td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/74_e3719_default.xml">74_e3719_default.xml</a>
+                           </td>
+                           <td>40</td>
                            <td>1</td>
                            <td>3</td>
                            <td>0</td>
@@ -2731,9 +2003,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/9_44a88_default.xml">9_44a88_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/32_e5edb_default.xml">32_e5edb_default.xml</a>
                            </td>
-                           <td>43</td>
+                           <td>39</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -2752,9 +2024,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/19_371d3_default.xml">19_371d3_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/22_115a4_default.xml">22_115a4_default.xml</a>
                            </td>
-                           <td>43</td>
+                           <td>41</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -2773,9 +2045,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/13_778a6_default.xml">13_778a6_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/23_a80c6_default.xml">23_a80c6_default.xml</a>
                            </td>
-                           <td>43</td>
+                           <td>39</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -2794,9 +2066,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/22_d8f2f_default.xml">22_d8f2f_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/62_46295_default.xml">62_46295_default.xml</a>
                            </td>
-                           <td>43</td>
+                           <td>38</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -2815,9 +2087,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/12_3fbd8_default.xml">12_3fbd8_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/9_f9db1_default.xml">9_f9db1_default.xml</a>
                            </td>
-                           <td>43</td>
+                           <td>39</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -2836,9 +2108,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/17_d6b06_default.xml">17_d6b06_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/78_792f6_default.xml">78_792f6_default.xml</a>
                            </td>
-                           <td>42</td>
+                           <td>48</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -2857,303 +2129,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/24_8e6d8_default.xml">24_8e6d8_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/18_313ca_default.xml">18_313ca_default.xml</a>
                            </td>
-                           <td>43</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/10_0305b_default.xml">10_0305b_default.xml</a>
-                           </td>
-                           <td>42</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/1_221e9_default.xml">1_221e9_default.xml</a>
-                           </td>
-                           <td>2</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/7_9ac5f_default.xml">7_9ac5f_default.xml</a>
-                           </td>
-                           <td>42</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/8_4c9ce_default.xml">8_4c9ce_default.xml</a>
-                           </td>
-                           <td>43</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/27_66e57_default.xml">27_66e57_default.xml</a>
-                           </td>
-                           <td>43</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/4_3c677_default.xml">4_3c677_default.xml</a>
-                           </td>
-                           <td>43</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/11_7175e_default.xml">11_7175e_default.xml</a>
-                           </td>
-                           <td>42</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/2_aa780_default.xml">2_aa780_default.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>9</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/14_6e1d1_default.xml">14_6e1d1_default.xml</a>
-                           </td>
-                           <td>43</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/23_00708_default.xml">23_00708_default.xml</a>
-                           </td>
-                           <td>43</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/18_1f153_default.xml">18_1f153_default.xml</a>
-                           </td>
-                           <td>44</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/15_2d439_default.xml">15_2d439_default.xml</a>
-                           </td>
-                           <td>43</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/6_b4865_default.xml">6_b4865_default.xml</a>
-                           </td>
-                           <td>36</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/20_4e68f_default.xml">20_4e68f_default.xml</a>
-                           </td>
-                           <td>42</td>
+                           <td>38</td>
                            <td>1</td>
                            <td>5</td>
                            <td>0</td>
@@ -3172,585 +2150,11 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/0_c6c10_default.xml">0_c6c10_default.xml</a>
-                           </td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/5_704b7_default.xml">5_704b7_default.xml</a>
-                           </td>
-                           <td>28</td>
-                           <td>1</td>
-                           <td>9</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/28_3fd17_default.xml">28_3fd17_default.xml</a>
-                           </td>
-                           <td>43</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/3_b28d4_default.xml">3_b28d4_default.xml</a>
-                           </td>
-                           <td>43</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/21_da7a2_default.xml">21_da7a2_default.xml</a>
-                           </td>
-                           <td>43</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/25_c368f_default.xml">25_c368f_default.xml</a>
-                           </td>
-                           <td>42</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/16_a23d4_default.xml">16_a23d4_default.xml</a>
-                           </td>
-                           <td>43</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Allgemeine_kirchliche_Zeitschrift/1860/GT-PAGE/29_557de_default.xml">29_557de_default.xml</a>
-                           </td>
-                           <td>44</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
-               <th>Die_paepstliche_Unfehlbarkeit</th>
-               <td>731</td>
-               <td>20</td>
-               <td>39</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/12_28dca_default.xml">12_28dca_default.xml</a>
-                           </td>
-                           <td>41</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/6_17bd1_default.xml">6_17bd1_default.xml</a>
-                           </td>
-                           <td>41</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/5_5feea_default.xml">5_5feea_default.xml</a>
-                           </td>
-                           <td>41</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/2_7cd63_default.xml">2_7cd63_default.xml</a>
-                           </td>
-                           <td>31</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/16_711a8_default.xml">16_711a8_default.xml</a>
-                           </td>
-                           <td>41</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/1_f5a94_default.xml">1_f5a94_default.xml</a>
-                           </td>
-                           <td>2</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/15_79fa4_default.xml">15_79fa4_default.xml</a>
-                           </td>
-                           <td>41</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/13_d23c9_default.xml">13_d23c9_default.xml</a>
-                           </td>
-                           <td>41</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/7_e2806_default.xml">7_e2806_default.xml</a>
-                           </td>
-                           <td>41</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/9_2b6df_default.xml">9_2b6df_default.xml</a>
-                           </td>
-                           <td>41</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/8_87bde_default.xml">8_87bde_default.xml</a>
-                           </td>
-                           <td>41</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/4_b74f9_default.xml">4_b74f9_default.xml</a>
-                           </td>
-                           <td>42</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/14_f0637_default.xml">14_f0637_default.xml</a>
-                           </td>
-                           <td>41</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/19_7cddf_default.xml">19_7cddf_default.xml</a>
-                           </td>
-                           <td>41</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/0_48dd2_default.xml">0_48dd2_default.xml</a>
-                           </td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/18_1f4d8_default.xml">18_1f4d8_default.xml</a>
-                           </td>
-                           <td>42</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/3_9c39d_default.xml">3_9c39d_default.xml</a>
-                           </td>
-                           <td>41</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/10_d2272_default.xml">10_d2272_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/38_15b80_default.xml">38_15b80_default.xml</a>
                            </td>
                            <td>40</td>
                            <td>1</td>
-                           <td>1</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -3767,9 +2171,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/17_bf6f0_default.xml">17_bf6f0_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/84_449d0_default.xml">84_449d0_default.xml</a>
                            </td>
-                           <td>41</td>
+                           <td>49</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -3788,11 +2192,1607 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Die_paepstliche_Unfehlbarkeit/GT-PAGE/11_f8940_default.xml">11_f8940_default.xml</a>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/87_2c5b7_default.xml">87_2c5b7_default.xml</a>
+                           </td>
+                           <td>40</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/4_0874f_default.xml">4_0874f_default.xml</a>
+                           </td>
+                           <td>36</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/50_264d2_default.xml">50_264d2_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/59_9074c_default.xml">59_9074c_default.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/13_21f79_default.xml">13_21f79_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/1_dc648_default.xml">1_dc648_default.xml</a>
+                           </td>
+                           <td>3</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/26_2de1a_default.xml">26_2de1a_default.xml</a>
+                           </td>
+                           <td>32</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/37_3710a_default.xml">37_3710a_default.xml</a>
                            </td>
                            <td>41</td>
                            <td>1</td>
                            <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/0_effcb_default.xml">0_effcb_default.xml</a>
+                           </td>
+                           <td>7</td>
+                           <td>1</td>
+                           <td>8</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/14_d6f50_default.xml">14_d6f50_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/54_81bd9_default.xml">54_81bd9_default.xml</a>
+                           </td>
+                           <td>40</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/47_3795f_default.xml">47_3795f_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/2_bf57d_default.xml">2_bf57d_default.xml</a>
+                           </td>
+                           <td>7</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/66_b9e05_default.xml">66_b9e05_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/17_9e825_default.xml">17_9e825_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/83_25f76_default.xml">83_25f76_default.xml</a>
+                           </td>
+                           <td>48</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/12_ad12c_default.xml">12_ad12c_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/8_86416_default.xml">8_86416_default.xml</a>
+                           </td>
+                           <td>40</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/15_db73b_default.xml">15_db73b_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/25_1c353_default.xml">25_1c353_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/61_a58b0_default.xml">61_a58b0_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/75_e9d5e_default.xml">75_e9d5e_default.xml</a>
+                           </td>
+                           <td>40</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/70_50841_default.xml">70_50841_default.xml</a>
+                           </td>
+                           <td>40</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/69_d84c0_default.xml">69_d84c0_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/77_ec563_default.xml">77_ec563_default.xml</a>
+                           </td>
+                           <td>36</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/57_58b41_default.xml">57_58b41_default.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/41_c43ea_default.xml">41_c43ea_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/11_79cd9_default.xml">11_79cd9_default.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/19_b5cf5_default.xml">19_b5cf5_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/44_af498_default.xml">44_af498_default.xml</a>
+                           </td>
+                           <td>42</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/76_56ea9_default.xml">76_56ea9_default.xml</a>
+                           </td>
+                           <td>21</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/85_cae5b_default.xml">85_cae5b_default.xml</a>
+                           </td>
+                           <td>48</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/7_53b99_default.xml">7_53b99_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/68_82dd8_default.xml">68_82dd8_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/82_28b6b_default.xml">82_28b6b_default.xml</a>
+                           </td>
+                           <td>48</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/80_c22ac_default.xml">80_c22ac_default.xml</a>
+                           </td>
+                           <td>48</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/20_67438_default.xml">20_67438_default.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/30_0feed_default.xml">30_0feed_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/49_f2b10_default.xml">49_f2b10_default.xml</a>
+                           </td>
+                           <td>40</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/52_e7ef1_default.xml">52_e7ef1_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/71_917b4_default.xml">71_917b4_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/24_ea698_default.xml">24_ea698_default.xml</a>
+                           </td>
+                           <td>40</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/39_3cade_default.xml">39_3cade_default.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/72_22672_default.xml">72_22672_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/42_a64d8_default.xml">42_a64d8_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/6_4bd2b_default.xml">6_4bd2b_default.xml</a>
+                           </td>
+                           <td>31</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/33_ba234_default.xml">33_ba234_default.xml</a>
+                           </td>
+                           <td>40</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/16_1d42f_default.xml">16_1d42f_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/67_3be02_default.xml">67_3be02_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/43_594b0_default.xml">43_594b0_default.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/56_65945_default.xml">56_65945_default.xml</a>
+                           </td>
+                           <td>40</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/73_5a60e_default.xml">73_5a60e_default.xml</a>
+                           </td>
+                           <td>40</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/60_1d362_default.xml">60_1d362_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/3_0abd4_default.xml">3_0abd4_default.xml</a>
+                           </td>
+                           <td>3</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/81_ddf09_default.xml">81_ddf09_default.xml</a>
+                           </td>
+                           <td>48</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/58_c5af0_default.xml">58_c5af0_default.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/35_df273_default.xml">35_df273_default.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/40_4c7d9_default.xml">40_4c7d9_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/28_01dd9_default.xml">28_01dd9_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/29_eebf1_default.xml">29_eebf1_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/34_68d36_default.xml">34_68d36_default.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/63_ad2b3_default.xml">63_ad2b3_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/79_79791_default.xml">79_79791_default.xml</a>
+                           </td>
+                           <td>48</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/53_a817f_default.xml">53_a817f_default.xml</a>
+                           </td>
+                           <td>40</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/10_d30c6_default.xml">10_d30c6_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/21_5155f_default.xml">21_5155f_default.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/27_5a1e8_default.xml">27_5a1e8_default.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/36_d328a_default.xml">36_d328a_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/65_85b93_default.xml">65_85b93_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/45_b2f73_default.xml">45_b2f73_default.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/31_8ddb3_default.xml">31_8ddb3_default.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/86_5c8ee_default.xml">86_5c8ee_default.xml</a>
+                           </td>
+                           <td>52</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/51_1528b_default.xml">51_1528b_default.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/5_fcbbf_default.xml">5_fcbbf_default.xml</a>
+                           </td>
+                           <td>21</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/64_eff03_default.xml">64_eff03_default.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/55_db23f_default.xml">55_db23f_default.xml</a>
+                           </td>
+                           <td>33</td>
+                           <td>1</td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/DTGT/blob/main/data/Stimmen_aus_Maria-Laach/1872/GT-PAGE/46_c4ee4_default.xml">46_c4ee4_default.xml</a>
+                           </td>
+                           <td>49</td>
+                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
