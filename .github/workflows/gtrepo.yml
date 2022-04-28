@@ -2,7 +2,7 @@ name: gtrepo
 on:
   push:
     tags:
-      - 'v${{ github.run_number }}'
+      - '*'
     branches:
       - main
   workflow_dispatch:
