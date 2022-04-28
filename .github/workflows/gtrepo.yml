@@ -82,6 +82,13 @@ jobs:
          filename: site.zip
          path: 'ocrdzip_out'
       
+    - name: Changelog
+      uses: scottbrenner/generate-changelog-action@master
+      id: Changelog
+      env:
+        REPO: ${{ github.repository }}
+
+
     
     - name: Create GitHub release
       id: create-new-release
@@ -90,8 +97,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
           tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.run_number }}
-          body_path: CHANGELOG.md 
+          release_name: Release ${{ github.ref }}
+          body: |
+            ${{ steps.Changelog.outputs.changelog }}
           draft: false
           prerelease: false
      
@@ -102,7 +110,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
           tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.run_number }}
+          release_name: Release ${{ github.ref }}
           upload_url: ${{ steps.create-new-release.outputs.upload_url }}
           asset_path: ./site.zip
           asset_name: bagitDump-v${{ github.run_number }}.zip
