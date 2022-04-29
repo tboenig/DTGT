@@ -1,8 +1,6 @@
 name: gtrepo
-on:
+'on':
   push:
-    tags:
-      - '*'
     branches:
       - main
   workflow_dispatch:
