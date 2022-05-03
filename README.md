@@ -53,25 +53,25 @@
             </thead>
             <tbody>
                <tr>
-                  <th>Stimmen_aus_Maria-Laach/1871</th>
+                  <td>Stimmen_aus_Maria-Laach/1871</td>
                   <td>73</td>
                   <td>945</td>
                   <td>25</td>
                </tr>
                <tr>
-                  <th>Stimmen_aus_Maria-Laach/1872</th>
+                  <td>Stimmen_aus_Maria-Laach/1872</td>
                   <td>244</td>
                   <td>3340</td>
                   <td>88</td>
                </tr>
                <tr>
-                  <th>Allgemeine_kirchliche_Zeitschrift/1860</th>
+                  <td>Allgemeine_kirchliche_Zeitschrift/1860</td>
                   <td>87</td>
                   <td>1166</td>
                   <td>30</td>
                </tr>
                <tr>
-                  <th>Die_paepstliche_Unfehlbarkeit</th>
+                  <td>Die_paepstliche_Unfehlbarkeit</td>
                   <td>39</td>
                   <td>731</td>
                   <td>20</td>
