@@ -11,6 +11,7 @@ This repository contains transcriptions for some journals which were digitized
 by the University Library of Tübingen in the DigiTheo project
 (http://idb.ub.uni-tuebingen.de/digitue/theo/).
 
+<div id='extent'>
 ## Extent
 
 After exporting the transcriptions as PAGE XML files, those files were
@@ -23,6 +24,8 @@ processed to remove empty lines:
 The transcriptions were done with eScriptorium, a transcription platform
 developed as part of the Scripta and RESILIENCE projects
 (https://gitlab.com/scripta/escriptorium/).
+ 
+ </div>   
 
 ## Sources
 
