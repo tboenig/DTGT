@@ -41,22 +41,34 @@
    <div id="transcriptions">
       <h3>List of transcriptions</h3>
       <div>
-         <table class="noStyle"/>
          <table id="table_id" class="display">
             <thead>
                <tr>
                   <th>document</th>
                   <th>TxtRegion</th>
+                  <th>ImgRegion</th>
+                  <th>LineDrawRegion</th>
+                  <th>GraphRegion</th>
+                  <th>TabRegion</th>
+                  <th>ChartRegion</th>
+                  <th>SepRegion</th>
+                  <th>MathRegion</th>
+                  <th>ChemRegion</th>
+                  <th>MusicRegion</th>
+                  <th>AdRegion</th>
+                  <th>NoiseRegion</th>
+                  <th>UnkownRegion</th>
+                  <th>CustomRegion</th>
                   <th>TextLine</th>
                   <th>Page</th>
                </tr>
             </thead>
             <tbody>
                <tr>
-                  <td>Stimmen_aus_Maria-Laach/1871</td>
-                  <td>73</td>
-                  <td>945</td>
-                  <td>25</td>
+                  <td>Allgemeine_kirchliche_Zeitschrift/1860</td>
+                  <td>87</td>
+                  <td>1166</td>
+                  <td>30</td>
                </tr>
                <tr>
                   <td>Stimmen_aus_Maria-Laach/1872</td>
@@ -65,10 +77,10 @@
                   <td>88</td>
                </tr>
                <tr>
-                  <td>Allgemeine_kirchliche_Zeitschrift/1860</td>
-                  <td>87</td>
-                  <td>1166</td>
-                  <td>30</td>
+                  <td>Stimmen_aus_Maria-Laach/1871</td>
+                  <td>73</td>
+                  <td>945</td>
+                  <td>25</td>
                </tr>
                <tr>
                   <td>Die_paepstliche_Unfehlbarkeit</td>
