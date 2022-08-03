@@ -32,9 +32,9 @@
       </thead>
       <tbody>
          <tr>
-            <td>6182</td>
-            <td>163</td>
-            <td>443</td>
+            <td>6599</td>
+            <td>182</td>
+            <td>494</td>
          </tr>
       </tbody>
    </table>
@@ -67,26 +67,116 @@
                <tr>
                   <td>Allgemeine_kirchliche_Zeitschrift/1860</td>
                   <td>87</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>1166</td>
                   <td>30</td>
                </tr>
                <tr>
                   <td>Stimmen_aus_Maria-Laach/1872</td>
                   <td>244</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>3340</td>
                   <td>88</td>
                </tr>
                <tr>
                   <td>Stimmen_aus_Maria-Laach/1871</td>
                   <td>73</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>945</td>
                   <td>25</td>
                </tr>
                <tr>
+                  <td>Defensio_episcopi_Rottenburgensis</td>
+                  <td>34</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>283</td>
+                  <td>14</td>
+               </tr>
+               <tr>
                   <td>Die_paepstliche_Unfehlbarkeit</td>
                   <td>39</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>731</td>
                   <td>20</td>
+               </tr>
+               <tr>
+                  <td>Grundtlicher_Bericht_von_den_zwo_roten_Neben-Sonnen</td>
+                  <td>17</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>134</td>
+                  <td>5</td>
                </tr>
             </tbody>
          </table>
