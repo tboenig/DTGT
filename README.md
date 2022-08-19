@@ -65,8 +65,8 @@
             </thead>
             <tbody>
                <tr>
-                  <td>Allgemeine_kirchliche_Zeitschrift/1860</td>
-                  <td>87</td>
+                  <td>Defensio_episcopi_Rottenburgensis</td>
+                  <td>34</td>
                   <td/>
                   <td/>
                   <td/>
@@ -80,8 +80,27 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>1166</td>
-                  <td>30</td>
+                  <td>283</td>
+                  <td>14</td>
+               </tr>
+               <tr>
+                  <td>Die_paepstliche_Unfehlbarkeit</td>
+                  <td>39</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>731</td>
+                  <td>20</td>
                </tr>
                <tr>
                   <td>Stimmen_aus_Maria-Laach/1872</td>
@@ -122,8 +141,8 @@
                   <td>25</td>
                </tr>
                <tr>
-                  <td>Defensio_episcopi_Rottenburgensis</td>
-                  <td>34</td>
+                  <td>Allgemeine_kirchliche_Zeitschrift/1860</td>
+                  <td>87</td>
                   <td/>
                   <td/>
                   <td/>
@@ -137,27 +156,8 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>283</td>
-                  <td>14</td>
-               </tr>
-               <tr>
-                  <td>Die_paepstliche_Unfehlbarkeit</td>
-                  <td>39</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>731</td>
-                  <td>20</td>
+                  <td>1166</td>
+                  <td>30</td>
                </tr>
                <tr>
                   <td>Grundtlicher_Bericht_von_den_zwo_roten_Neben-Sonnen</td>
