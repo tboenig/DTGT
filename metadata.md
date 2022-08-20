@@ -51,13 +51,13 @@
          </td>
          <td>
             <div class="grid-container">
-               <button onclick="document.getElementById('table_id').classList.toggle('hide1')">
+               <button onclick="setColor(event, 'button', '#101010');document.getElementById('table_id').classList.toggle('hide1')">
                   <i>TextLine</i>
                </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide2')">
+               <button onclick="setColor(event, 'button', '#101010');document.getElementById('table_id').classList.toggle('hide2')">
                   <i>Page</i>
                </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide3')">
+               <button onclick="setColor(event, 'button', '#101010');document.getElementById('table_id').classList.toggle('hide3')">
                   <i>TxtRegion</i>
                </button>
             </div>
