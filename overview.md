@@ -20,7 +20,7 @@
                     } );
                     } );
                 </script>
-<script>
+<script type="text/javascript">
                     function setColor(e, btn, color) {
                     var target = e.target,
                     count = +target.dataset.count;
