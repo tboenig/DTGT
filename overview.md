@@ -20,15 +20,6 @@
                     } );
                     } );
                 </script>
-<script type="text/javascript">
-                    function setColor(e, btn, color) {
-                    var target = e.target,
-                    count = +target.dataset.count;
-                    
-                    target.style.backgroundColor = count === 1 ? "#ddd" : '#999999';
-                    target.dataset.count = count === 1 ? 0 : 1;
-                    }
-                </script>
 <div>
    <h2>Details</h2>
    <ul>
